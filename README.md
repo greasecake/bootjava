@@ -1,5 +1,7 @@
 <img src="http://javaops.ru/static/img/logo/javaops_30.png" width="223"/>
 
+@greasecake
+
 Открытый курс для всех желающих приобщиться к живой современной разработке на Java
 # [Разработка Spring Boot 2.x HATEOAS приложения (BootJava)](http://javaops.ru/view/bootjava?ref=gh)
 ## [Программа](http://javaops.ru/view/bootjava#program)
